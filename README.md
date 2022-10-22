@@ -41,7 +41,7 @@ Country = "🇮🇳"
 <br>
 <br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaiimss&layout=compact&theme=synthwave&hide=Css">
-    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaiimss&layout=compact&theme=midnight-purple&hide=Css" />
+    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaiimss&layout=compact&theme=synthwave&hide=Css" />
 </a>
 </b></h2>  
 </details>
