@@ -99,3 +99,35 @@ Country = "🇮🇳"
 ----
 [![Metrics](https://metrics.lecoq.io/deepaiimss?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/sakku_cute)
 ----
+
+<p align="center">
+  <i>A good code is like a story, not a puzzle.</i><br/>
+</p> 
+
+### - Python 
+
+<p align="left">
+ <a href="https://www.python.org">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
+
+### - Blogs 🌱
+
+<p>
+<a href="https://alamtd.wordpress.com">
+ <img align="left" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/wordpress.svg" />
+</a>
+</p>
+
+
+
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+
+***********************************
+
+#### Thank You-🙏🏼
+
+
+> Sakshi Sharma
+⭐ From [Shahnawaz](https://github.com/deepaiimss)
