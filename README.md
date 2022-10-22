@@ -10,7 +10,7 @@
 <br>
 
 
-```html
+```ruby
 Name = "Sakshi Sharma"
 Class = "College"
 Country = "🇮🇳"
