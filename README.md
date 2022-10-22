@@ -108,7 +108,7 @@ Country = "🇮🇳"
 
 <p align="left">
 <a href="https://www.python.org">
-  <img src="svg/dev/languages/python.svg" alt="python" style="circle:top; margin:2px 4px">
+  <img src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 </p>
 
