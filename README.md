@@ -104,11 +104,11 @@ Country = "🇮🇳"
   <i>A good code is like a story, not a puzzle.</i><br/>
 </p> 
 
-### - Python Noob
+### - Python 
 
 <p align="left">
  <a href="https://www.python.org">
-    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/languages/python.svg" alt="python" style="circle:top; margin:6px 4px">
   </a>
 </p>
 
