@@ -112,13 +112,6 @@ Country = "🇮🇳"
   </a>
 </p>
 
-### - Blogs 🌱
-
-<p>
-<a href="https://alamtd.wordpress.com">
- <img align="left" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/wordpress.svg" />
-</a>
-</p>
 
 
 
@@ -130,4 +123,4 @@ Country = "🇮🇳"
 
 
 > Sakshi Sharma
-⭐ From [Shahnawaz](https://github.com/deepaiimss)
+⭐ From [Sakshi](https://github.com/deepaiimss)
