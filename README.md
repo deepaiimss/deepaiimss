@@ -49,7 +49,7 @@ Country = "🇮🇳"
 
 <details>
 <summary>⠂Sakshi's Github Graph⠐</summary>
-<h2 align="center"><b>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐
+<h2 align="center"><b>⠂Github Statistics⠐
   <br>
   <br>
 
