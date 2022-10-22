@@ -10,7 +10,7 @@
 <br>
 
 
-```python
+```css
 Name = "Sakshi Sharma"
 Class = "College"
 Country = "🇮🇳"
