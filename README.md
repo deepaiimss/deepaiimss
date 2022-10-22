@@ -10,7 +10,7 @@
 <br>
 
 
-```css
+```html
 Name = "Sakshi Sharma"
 Class = "College"
 Country = "🇮🇳"
