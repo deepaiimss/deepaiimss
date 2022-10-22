@@ -15,6 +15,10 @@ Name = "Sakshi Sharma"
 Class = "College"
 Country = "🇮🇳"
 ```
+  
+<div align="center">
+<img src='https://media.giphy.com/media/qWAvh9GmlryEg/giphy.gif' alt="Welcome Nekos!"/>
+</div>
 
 <details>
 <summary>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠂</summary>
