@@ -104,7 +104,7 @@ Country = "🇮🇳"
   <i>A good code is like a story, not a puzzle.</i><br/>
 </p> 
 
-### - Python 
+### - Python Noob
 
 <p align="left">
  <a href="https://www.python.org">
