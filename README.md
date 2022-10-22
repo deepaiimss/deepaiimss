@@ -107,8 +107,8 @@ Country = "🇮🇳"
 ### - Python 
 
 <p align="left">
- <a href="https://www.python.org">
-    <img src="svg/dev/languages/python.svg" alt="python" style="circle:top; margin:2px 4px">
+<a href="https://www.python.org">
+  <img src="svg/dev/languages/python.svg" alt="python" style="circle:top; margin:2px 4px">
 </a>
 </p>
 
