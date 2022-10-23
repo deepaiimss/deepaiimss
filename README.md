@@ -17,7 +17,7 @@ Country = "🇮🇳"
 ```
   
 <div align="center">
-<img src='https://media.giphy.com/media/qWAvh9GmlryEg/giphy.gif' alt="Welcome Nekos!"/>
+<img src='https://telegra.ph/file/5e4c17758057ce274e061.jpg"/>
 </div>
 
 <details>
