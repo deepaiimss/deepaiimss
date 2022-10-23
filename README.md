@@ -32,7 +32,7 @@ Country = "🇮🇳"
 [![Profile views](https://komarev.com/ghpvc/?username=deepaiimss&label=Profile%20views)](https://github.com/deepaiimss)
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=deepaiimss)
   
-<a href="https://github-readme-stats.vercel.app/api?username=deepaiimss&layout=compact&show_icons=true&theme=synthwave&cache_seconds=1800">
+<a href="https://github-readme-stats.vercel.app/api?username=Sakshi&layout=compact&show_icons=true&theme=synthwave&cache_seconds=1800">
     <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=deepaiimss&show_icons=true&include_all_commits=true&theme=synthwave&cache_seconds=86400" />
 
 </a>
