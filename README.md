@@ -1,7 +1,7 @@
-<h2 align="center"><b>Hello World, I'm Sakshi 👋🏻</b></h2>
+<h2 align="center"><b>Hello World, I'm Deepjit 👋🏻</b></h2>
 
 
-<p align='Middle'><a href='https://t.me/sakku_cute><img src='https://te.legra.ph/file/329cff91cfe957c848cc7.jpg' width='750"'></a></p>
+<p align='Middle'><a href='https://t.me/Itz_me_AR><img src='https://te.legra.ph/file/329cff91cfe957c848cc7.jpg' width='750"'></a></p>
 
   
 <p align="center">
@@ -52,13 +52,13 @@ Country = "🇮🇳"
 
 
 <details>
-<summary>⠂𝐒𝐚𝐤𝐬𝐡𝐢'𝐬 𝐆𝐢𝐭𝐇𝐮𝐛 𝐆𝐫𝐚𝐩𝐡⠐</summary>
+<summary>⠂Deepjit'𝐬 𝐆𝐢𝐭𝐇𝐮𝐛 𝐆𝐫𝐚𝐩𝐡⠐</summary>
 <h2 align="center"><b>⠂𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬⠐
   <br>
   <br>
 
 
-![Sakshi's's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=deepaiimss&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
+![Deepjit's's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=deepaiimss&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 </details>
 
 <details>
@@ -138,8 +138,8 @@ Country = "🇮🇳"
 #### Thank You-🙏🏼
 
 
-> Sakshi Sharma
-⭐ From [Sakshi](https://github.com/deepaiimss)
+> Deepjit
+⭐ From [Deepjit](https://github.com/deepaiimss)
   
   
   
