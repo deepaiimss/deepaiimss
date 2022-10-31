@@ -11,7 +11,7 @@
 
 
 ```ruby
-Name = "Sakshi Sharma"
+Name = "Deepjit Das"
 Class = "College"
 Country = "🇮🇳"
 ```
